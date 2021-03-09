@@ -1,0 +1,15 @@
+{
+  "name": "adamsarli-test-component",
+  "version": "1.0.1",
+  "description": "",
+  "main": "testComponent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
