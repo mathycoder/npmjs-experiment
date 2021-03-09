@@ -1,6 +1,6 @@
 {
   "name": "adamsarli-test-component",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "testComponent.js",
   "scripts": {
@@ -11,5 +11,8 @@
     "react-dom": "^16.10.1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-syntax-jsx": "^7.12.13"
+  }
 }
